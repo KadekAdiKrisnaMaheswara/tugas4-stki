@@ -1,0 +1,5 @@
+streamlit 
+scikit-learn 
+rapidfuzz
+pytesseract 
+pdf2image PyPDF2 pillow
